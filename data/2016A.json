@@ -1,0 +1,581 @@
+{
+  "year": "2016A",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "滑手機是現代人生活中的一部分，但有年輕女子因為滑手機時間過長， 眼壓、血壓 過高，造成視神經與視網膜水腫，若壓死視神經可能失明。 視網膜的英文是?(**102)",
+      "options": [
+        "A. Tympanic Membrane",
+        "B. Cornea",
+        "C. Sclera",
+        "D. Retina"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "地震後，災民常會有創傷後壓力症。創傷後壓力症的英文為?(**161)",
+      "options": [
+        "A. Delusional Disorder",
+        "B. Posttraumatic Stress Disorder",
+        "C. Pedophilic Disorder",
+        "D. Social Phobia"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "臉色蒼白可能是受寒或遇到恐怖事情時精神方面受刺激後，臉部毛細孔變細、微血管 收縮及血液循環減慢的結果。 對於病患症狀描述時，所使用的「蒼白」描述為?(**27)",
+      "options": [
+        "A. Poor",
+        "B. Pain",
+        "C. Pressure",
+        "D. Pale"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "藝人黃安回台就醫，進行冠狀動脈繞道手術，引發社會爭議。冠狀動脈繞道手術的英 文是?(**29)",
+      "options": [
+        "A. Ventricular Septal Defect Repair (C) Coronary Artery Bypass Graft",
+        "B. Aortic Valve Replacement\n(D) Laparoscope Cholecystectomy\n(B)5.近來新型 A 型流感造成不少民眾生病及恐慌。流行性感冒的英文是?(**39)\n(A) Typhoid (B) Influenza",
+        "C. Allergy",
+        "D. Asthma"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "幽門螺旋桿菌是造成胃潰瘍病因，『胃潰瘍』的英文是?(**47)",
+      "options": [
+        "A. Pneumothorax",
+        "B. Duodenum Ulcer",
+        "C. Gastric Ulcer",
+        "D. Dentalgia"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "承上題，患者常需要執行胃鏡檢查，胃鏡檢查的英文是?(**55)",
+      "options": [
+        "A. Gastroscopy",
+        "B. Anoscopy",
+        "C. Proctoscopy",
+        "D. Transesophageal Echocardiography(TEE)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "茲卡病毒感染症主要是經由蚊子叮咬傳播，病原體為?(**時事題)",
+      "options": [
+        "A. Middle East respiratory syndrome coronavirus",
+        "B. Severe acute respiratory syndrome coronavirus (SARS-CoV)",
+        "C. Norovirus",
+        "D. Zika virus"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "下列哪一種系統功能不是應用在住院管理?(*70)",
+      "options": [
+        "A. 單一劑量系統",
+        "B. 護理站系統",
+        "C. 供膳系統",
+        "D. 檢傷分類系統\n1"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "下列哪些系統屬於門診資訊系統?(*70)",
+      "options": [
+        "A. 掛號",
+        "B. 批價",
+        "C. 病歷",
+        "D. 以上皆是"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "醫院不論採用何種治療手段、藥物、住院天數，健保就只給醫院同一種給付價格的給 付方式，是根據下列何種代碼?(*85)",
+      "options": [
+        "A. MeSH",
+        "B. DICOM",
+        "C. LONIC",
+        "D. DRGs"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "下列何者為錯誤的敘述?(*85-90、時事題)",
+      "options": [
+        "A. ICD-9 的 9 代表第九版 (C) HL-7 的 7 代表第七版",
+        "B. 中央健保署目前使用的是 ICD-10\n(D) DICOM 是醫療影像資料的傳輸交換標準",
+        "C. 13.疾病管制署進行實驗室檢驗結果自動通報系統，如果要採用符合國際標準的檢驗檢查\n編碼系統，最適合使用下列哪一種代碼系統?(*86)\n(A) DRG (B) ICD (C) LOINC",
+        "D. UMLS"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "下列何者不屬於 OSI 網路七層之中?(*87)",
+      "options": [
+        "A. Physical",
+        "B. UMLS",
+        "C. Network",
+        "D. Session"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "衛生福利部長期推動電子病歷交換(EEC)計畫，截至目前為止已完成 EEC 建置的 醫院已超過 400 家，其中電子病歷所採用的架構標準是?(*88)",
+      "options": [
+        "A. CDA",
+        "B. CDB",
+        "C. CDC",
+        "D. CDD"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "關於醫療資訊標準推動的好處，下列何者錯誤?(*93)",
+      "options": [
+        "A. 獨立性：可做單獨系統之修改或升級，而不必擔心影響其它系統",
+        "B. 交換性：跨醫療院所交換資料無需修改程式或資料庫",
+        "C. 整合性：在相同的標準下，不同功能之系統下進行整合，必須把所有系統交由\n同一廠商承包",
+        "D. 提升國內醫療資訊產業競爭力"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "資料庫在醫療資訊系統扮演十分重要的角色，下列有關資料庫之敘述何者錯誤? (*98)",
+      "options": [
+        "A. 使用者需要知道存放資料的磁碟實體位置",
+        "B. 資料庫是指一群相關資料的集合體，可有效的組織、儲存和查閱相關資料",
+        "C. 資料庫必須要有一個資料庫管理系統",
+        "D. 資料庫管理系統是介於使用者的中介軟體系統"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "三層式資料庫結構將資料庫綱要分為三層，下列哪一層或稱為景觀(View)?(*100-101)",
+      "options": [
+        "A. 外部層",
+        "B. 概念層",
+        "C. 內部層",
+        "D. 實體層\n2"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "關聯式資料庫的掛號資料表與病人基本資料表是透過病歷號碼互相關聯，下列敘述 何者不正確?(*112)",
+      "options": [
+        "A. 病歷號碼在病人基本資料表中，具有唯一性可以作為主鍵(Primary Key)",
+        "B. 病歷號碼在掛號資料表中不具唯一性，所以不能單獨作為主鍵",
+        "C. 對於掛號資料表而言，病歷號碼欄位是參照病人基本資料表的外來鍵(Foreign Key)",
+        "D. 依照個體完整性限制，病歷號碼在病人基本資料表中可以是空值(Null)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "關聯式資料庫的正規化(Normalization)，在實務上為保持執行效率與避免異常間的平 衡，通常進行到 3NF 或?(*123)",
+      "options": [
+        "A. BCNF(Boyce & Codd NF)",
+        "B. 4NF",
+        "C. 5NF",
+        "D. 以上皆可"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "資料通訊傳輸速率的單位為 bps，目前常用的區域網路速度大多是 1G(Giga) bps。 試問 1Gbps 的網路環境，理論上每秒可傳輸多少 MB(Mega Byte)的資料?(*136)",
+      "options": [
+        "A. 1.25 MB/s",
+        "B. 5 MB /s",
+        "C. 12.5 MB/s",
+        "D. 125 MB/s"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "在乙太網路架構下，管理各項網路設備通常使用何種通訊協定進行溝通?(*151)",
+      "options": [
+        "A. SNMP",
+        "B. SSH",
+        "C. HTTP",
+        "D. SMTP"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "經由 X 光的管球及偵測器間相對位置的變化，利用每一個像素的吸收係數，計算產 生人體器官的立體幾何外貌，是哪一種醫學檢驗儀器?(*163)",
+      "options": [
+        "A. 超音波",
+        "B. 心電圖",
+        "C. 電腦斷層掃描",
+        "D. 核磁共振"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "在使用者、資料、作業系統和電腦來源中設立足夠的關卡，以防範使用者透過程式去 存取不是他自己的資料，這種概念是哪種安全目標?(*170)",
+      "options": [
+        "A. 整體性",
+        "B. 機密性",
+        "C. 可取用性",
+        "D. 可靠性"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "人工檢查資料輸入是否正確，是屬於下列那種安全管理?(*171)",
+      "options": [
+        "A. 實體安全",
+        "B. 資料安全",
+        "C. 程式安全",
+        "D. 系統安全"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "在資訊安全的領域裡，下列那一項是同時針對『實體安全』及『資料安全』的防護措 施? (*171)",
+      "options": [
+        "A. 人員定期輪調",
+        "B. 管制上機次數與時間",
+        "C. 保留日誌檔",
+        "D. 不斷電系統"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "資料隱碼攻擊(SQL injection)是駭客常用來入侵網站資料庫的手段，屬於哪一種所需考 量的安全目標?(時事題)",
+      "options": [
+        "A. 程式安全",
+        "B. 系統安全",
+        "C. 資料安全",
+        "D. 實體安全\n3"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "湯姆克魯斯在電影不可能的任務中，最常入侵的地點就是主機機房，從資訊安全的角 度考量屬於何種安全目標?(*171)",
+      "options": [
+        "A. 資料安全",
+        "B. 系統安全",
+        "C. 程式安全",
+        "D. 實體安全"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "甚麼樣的連線技術可讓在家中或差旅中工作的使用者，使用公用網路 (例如網際網路) 提供的基礎結構存取私人網路上的伺服器?(*179)",
+      "options": [
+        "A. SNMP",
+        "B. VPN",
+        "C. SSH",
+        "D. HTTP"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "對於電子簽章的敘述，下列何者正確(*191)",
+      "options": [
+        "A. 電子簽章是使用自己的公開金鑰對文件進行運算",
+        "B. 必須將文件先以一個單向赫序函數處理產生訊息摘要，再以私鑰對訊息摘要進行運\n算產生電子簽章",
+        "C. 接收者如果要檢驗電子簽章的正確性，應該使用自己的私密金鑰進行運算",
+        "D. 電子簽章要應用於醫院電子病歷製作，目前還缺乏法源依據"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "哪一項工作不屬於資訊系統的細部分析?(*231)",
+      "options": [
+        "A. 資訊範圍分析",
+        "B. 專案規劃分析",
+        "C. 系統介面分析",
+        "D. 功能處理分析"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "一般都是採用下列何種測試技術來驗證「系統功能規格書」中細部設計所描述模組的 控制路徑正確性?(*245)",
+      "options": [
+        "A. Alpha 測試",
+        "B. Beta 測試",
+        "C. 白箱測試",
+        "D. 黑箱測試"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "資訊系統的壓力測試是在哪一個測試階段進行?(*246)",
+      "options": [
+        "A. 驗收測試",
+        "B. 平行測試",
+        "C. 整體測試",
+        "D. 單元測試"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "下列對於實施臨床路徑的敘述何者正確?(*25,85)",
+      "options": [
+        "A. 所有疾病與手術均適合實施",
+        "B. 醫院或醫師不必建立自己的臨床路徑",
+        "C. 有提高天數增加醫療費用之優點",
+        "D. 改進治療成果，提高醫療品質"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "一般系統維護工作可區分為四種，嘗試修改或是新增介面功能來適應外在環境變化的 維護作業，主要是屬於下列何者?(*265)",
+      "options": [
+        "A. 矯正性維護",
+        "B. 適應性維護",
+        "C. 完善性維護",
+        "D. 預防性維護\n4"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "醫院之運作主要分為醫療事務、醫療照護和經營管理三大項，對於下列管理系統的敘 述，何者不正確?(*279)",
+      "options": [
+        "A. 掛號管理和批價管理是屬於醫療事務",
+        "B. 醫令管理和藥品管理是屬於醫療照護",
+        "C. 績效管理和採購管理是屬於經營管理",
+        "D. 住院管理和病歷管理是屬於醫療照護"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "對於健康保險的支付制度論病例計酬，下列敘述何者有誤?(*285)",
+      "options": [
+        "A. APG 適用於門診",
+        "B. DRG 適用於住院",
+        "C. HMO 適用於急診",
+        "D. RUG 適用於長期照護"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "對於各種健保支付制度的敘述何者正確?(*286)",
+      "options": [
+        "A. 論量計酬：醫師的醫療行為自主權低",
+        "B. 論日計酬：作業簡單，行政成本低",
+        "C. 論人計酬：行政作業成本高",
+        "D. 總額預算制：協商容易"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "在檢驗資訊系統中，可自動將病人的檢驗結果與設定的檢驗危險值比較，合乎危險值 通報醫護人員的範圍時要以特別顏色顯示提醒。請問這是下列何種比對?(*363-364)",
+      "options": [
+        "A. reference check",
+        "B. delta check",
+        "C. panic check",
+        "D. double check"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "建構疾病管理轉型到健康管理的整合性醫療服務體系時，其資訊管理系統存在的需 求，下列何者有誤?(*38)",
+      "options": [
+        "A. 合理化收費",
+        "B. 共同標準平台的建立",
+        "C. 資訊網路化",
+        "D. 資訊安全性"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "下列設備何者不是放射科的檢查儀器?(*403)",
+      "options": [
+        "A. 自動體外心臟電擊去顫器(AED)",
+        "B. 磁振造影(MRI)",
+        "C. X 光(X-RAY)",
+        "D. 電腦斷層攝影 CT"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "診間醫令系統中，主要的輸入作業簡稱 SOAP，請問 SOAP 代表下列何者?(*461)",
+      "options": [
+        "A. Subjective, Objective, Assessment, Plan",
+        "B. Simple, Object, Access, Protocol",
+        "C. Subjective, Objective, Assignment, Plan",
+        "D. Simple, Object, Access, Plan"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "請問下列何者不是病人安全目標之一?(*510)",
+      "options": [
+        "A. 提升用藥安全",
+        "B. 預防病人跌倒及降低傷害程度",
+        "C. 提昇資訊網路安全",
+        "D. 提升手術安全\n5"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "外國學生到醫療院所就醫時，被醫師診斷是肺結核，依法規醫院必須通報哪個單位? (*528)",
+      "options": [
+        "A. 外交部",
+        "B. 內政部",
+        "C. 疾病管制署",
+        "D. 中央健保署"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "請問下列何者不是電子病歷上之優勢?(*540-541)",
+      "options": [
+        "A. 電子病歷更具安全性",
+        "B. 電子病歷促進醫務管理及醫學研究",
+        "C. 電子病歷增加正確性及完整性",
+        "D. 電子病歷取得困難"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "針對健保資料庫ㄧ般申請資料的敘述，下列何者錯誤?(*610)",
+      "options": [
+        "A. 所提供的資料是採用 XML 格式，非常方便處理",
+        "B. 資料包括門診、住院和特約藥局",
+        "C. 承保抽樣歸人檔的五萬人樣本，其年齡、性別和費用等三種變項分布，\n與母體間並無明顯差異",
+        "D. 特定主題分檔包括牙醫、中醫藥、癌症等十幾種疾病的門診處方治療明細"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "衛生福利部的遠距健康照護計畫，主要分為哪幾種健康照護服務模式?(*645)",
+      "options": [
+        "A. 機構式、社區式、居家式",
+        "B. 全國、縣市、鄉鎮區",
+        "C. 集中式、分散式、獨立式",
+        "D. 老年人、慢性病、嬰幼兒"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "以下那一項不是平衡計分卡的績效評估指標?(*661)",
+      "options": [
+        "A. 服務構面",
+        "B. 顧客構面",
+        "C. 內部程序構面",
+        "D. 學習與成長構面"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "在健康資訊產業整合(IHE)中，跨機構臨床文件分享(cross-enterprise clinical document sharing, XDS)整合規範，是屬於哪一個領域的技術架構?(*679)",
+      "options": [
+        "A. 放射科 (Radiology)",
+        "B. 資訊科技基礎建設 (IT Infrastructure)",
+        "C. 心臟科 (Cardiology)",
+        "D. 檢驗室 (Laboratory)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "防火牆的資料過濾有不同的方式，其中檢查封包的來源和目的的 IP 位，及使用的 TCP/UDP 埠號是否合理，是屬於下列哪一種?(*174)",
+      "options": [
+        "A. 應用程式層過濾器",
+        "B. 資料封包過濾器",
+        "C. 代理式過濾器",
+        "D. 病毒掃瞄過濾器"
+      ],
+      "answer": "B"
+    }
+  ]
+}

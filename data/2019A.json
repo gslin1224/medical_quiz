@@ -1,0 +1,569 @@
+{
+  "year": "2019A",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "近期國際間麻疹疫情持續發生，國內亦陸續出現境外移入病例之接觸者確診感染。麻疹的英文 是？(**205)",
+      "options": [
+        "A. Measles",
+        "B. Herpes",
+        "C. Polio",
+        "D. Leprosy"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "承上題，因應近期醫院內麻疹群聚感染事件，全院員工快速接種 MMR 疫苗。請問疫苗的醫護術 語是？(**162)",
+      "options": [
+        "A. Vaccine",
+        "B. Vaginitis",
+        "C. Treatment",
+        "D. Enterorrhagia"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "一般出院病歷摘要通常包含主訴、病史、體檢發現、併發症、出院指示與用藥等資訊，其中『主 訴』是指？(**30)",
+      "options": [
+        "A. Complications",
+        "B. Laboratory",
+        "C. Radiology",
+        "D. Chief Complaint"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "健保署發現部分醫院執行達文西手術疑似申報異常，認為不可以用腹腔鏡手術來申報。腹腔鏡的 英文是？(**56)",
+      "options": [
+        "A. Laparoscopic .",
+        "B. Tomotherapy",
+        "C. Catheterization",
+        "D. Ablation"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "肺癌、腫瘤壓迫呼吸道、心臟衰竭、貧血或肺部感染等都有可能引起呼吸困難，其中『呼吸困 難』常用字彙為下列何者？(**47)",
+      "options": [
+        "A. Croupy",
+        "B. Dyspnea",
+        "C. Asthma",
+        "D. Influenza"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "駐外醫療團名醫結腸直腸癌開刀，提醒大家注意早期症狀。結腸直腸癌的英文是？(**54)",
+      "options": [
+        "A. Epilepsy",
+        "B. Leukemia",
+        "C. Colorectal carcinoma",
+        "D. Septicemia"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "承上題，大腸癌患者確診常需要執行結腸鏡檢查，結腸鏡檢查的英文是？(**55)",
+      "options": [
+        "A. Gastroscopy",
+        "B. Colonoscopy",
+        "C. Arthroscopy",
+        "D. Transesophageal Echocardiography"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "在精神科臨床檢查中對於病患情感描述時，所使用的「Anxiety」是指？ (**173)",
+      "options": [
+        "A. 冷漠",
+        "B. 焦慮",
+        "C. 憂鬱",
+        "D. 漠不關心"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "以下關於全民健保資料庫的敘述何者錯誤？(*551)",
+      "options": [
+        "A. 健保資料屬於衛生福利資料應用管理要點中的二級資料",
+        "B. 健保資料的使用場所為衛生福利資料科學中心暨研究分中心獨立作業區",
+        "C. 健保資料申請核准後，使用期限為三年。",
+        "D. 應用健保資料進行研究，仍需通過倫理委員會(IRB)審查"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "我們常在遊戲界聽到某支新遊戲要開放給玩家「封測」或「公測」，即使用者在實際環境下測試， 請問此階段的測試是屬於下列哪種測試？(*219, 時事題)",
+      "options": [
+        "A. α 測試",
+        "B. β 測試",
+        "C. γ 測試 .",
+        "D. 以上皆非"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "資訊安全的目標有所謂的 C.I.A.三原則，是指下列何者？(*137)",
+      "options": [
+        "A. 防火牆、虛擬私有網路和認證中心",
+        "B. 保護資料、系統和設備不要被駭客攻擊",
+        "C. 資料的加密、解密和密鑰管理",
+        "D. 保護資料及系統資源的機密性、整體性和可取用性"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "臺灣健康雲計畫中，以民眾就醫紀錄為主軸，包括電子病歷交換中心、健保雲端藥歷系統和民眾 健康存摺是哪一朵雲？(*32)",
+      "options": [
+        "A. 醫療雲",
+        "B. 照護雲",
+        "C. 保健雲",
+        "D. 防疫雲\n第 1 頁，共 4 頁"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "依據衛生福利部在電子病歷推動專區的加速推動電子病歷發展藍圖，106 年至 109 年的發展願景 為何？(*30)",
+      "options": [
+        "A. 建立健康資訊應用之基礎環境，推動健康資訊之創新應用",
+        "B. 發展個人化之健康紀錄與加值應用",
+        "C. 全面運用電子病歷提升醫療服務品質",
+        "D. 建立以病人為中心且可跨院交換的電子病歷"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "在檢驗資訊系統中，可自動將病人的檢驗結果與病人過去相同的檢驗結果做比較，計算是否有特 別減少或增加的現象，異常時以特別顏色顯示提醒。請問這是下列何種比對？(*337)",
+      "options": [
+        "A. 區間值比對(Reference Check)",
+        "B. 前後值比對(Delta Check)",
+        "C. 危險值比對(Panic Check)",
+        "D. 標準值比對(Standard Value Check)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "臨床藥學專家將藥物不良反應（ADR）的等級分為嚴重、中度、輕度三個等級，請問下列何者屬 於嚴重的不良反應？(*367)",
+      "options": [
+        "A. 會造成病人死亡或危及生命",
+        "B. 會延長病人住院時間，且造成病人不舒服",
+        "C. 僅延長病人住院時間 ..",
+        "D. 僅造成病人不舒服"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "資訊系統發展的各個階段會產生不同文件，下列敘述何者正確？(*203-207)",
+      "options": [
+        "A. 系統設計階段會產生初步設計規範書",
+        "B. 系統分析階段會產生系統需求規格書",
+        "C. 系統發展階段會產生系統規格說明書",
+        "D. 系統推行階段會產生程式說明書"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "當醫院要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、舊資訊系統 間所產生數據的對應關係，應進行何種測試？(*220)",
+      "options": [
+        "A. 整合測試",
+        "B. 整體測試",
+        "C. 平行測試",
+        "D. 單元測試"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "三層式資料庫結構將資料庫綱要分為三層，下列哪一層用來描述實際的資料庫儲存結構和存取路 徑的細部資料？(*84)",
+      "options": [
+        "A. 外部層",
+        "B. 概念層",
+        "C. 內部層",
+        "D. 實體層"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "醫院行政之主要任務中，營養管理及藥品管理是屬於下列哪一項運作？(*253)",
+      "options": [
+        "A. 醫療事務",
+        "B. 醫療照護 .",
+        "C. 經營管理",
+        "D. 財務系統"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "衛福部為推動分級醫療，自 106 年 4 月 15 日(星期六)開始實施新的規定，針對急診部分負擔：醫 學中心急診檢傷分類下列那一級將從 450 元調至 550 元？(*290)",
+      "options": [
+        "A. 第 1 級 .",
+        "B. 第 1、2 級 ..",
+        "C. 第 1、2、3 級",
+        "D. 第 3、4、5 級"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "下列哪一種種健保支付制度優點是具有可提供強烈經濟誘因，促使醫療院所重視預防保健以降低 醫療成本，而且支付與醫療服務量無關。(*261)",
+      "options": [
+        "A. 總額預算",
+        "B. 論量計酬 .",
+        "C. 論人計酬",
+        "D. 論日計酬"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "下列對於臨床路徑的敘述何者錯誤？(*262)",
+      "options": [
+        "A. 醫院在因應論量計酬支付制度，臨床路徑乃是諸多管理措施中最廣為採用之利器。",
+        "B. 臨床路徑是一種固定的治療建議模式，讓病人由住院到出院都依此模式的規範來接受治療。",
+        "C. 醫院可藉由臨床路徑來控制整個醫療成本並維持或改進醫療的品質",
+        "D. 臨床路徑希望找出最有成本效益的治療模式。"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "SQL(Structured Query Language) 是一種資料庫查詢語言， 請問 SQL 是用於下列哪種資料庫管理 系統？(*82, 88)",
+      "options": [
+        "A. 關聯式資料庫管理系統(Relational Data Base Management System)",
+        "B. 階層式資料庫管理系統(Hierarchical Data Base Management System)",
+        "C. 網狀式資料庫管理系統(Network Data Base Management System)",
+        "D. 以上皆可"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "為了確保交易執行的正確性，一個交易在資料庫管理系統中具有四種特性即所謂交易的 ACID 特 性，請問下列何者不屬於 ACID 特性？(*85~86)",
+      "options": [
+        "A. 活動性(Activity)",
+        "B. 一致性(Consistency)",
+        "C. 孤立性(Isolation)",
+        "D. 永久性(Durability)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "在醫院資訊系統的資料庫中，醫師資料表是以醫師代號的欄位作為主鍵(Primary key) ，而掛號資 料表中是以醫師代號的欄位參照醫師資料表，那麼在掛號資料表的醫師代號欄位稱之為何？(*95)",
+      "options": [
+        "A. 候選鍵(Candidate key)",
+        "B. 外來鍵(Foreign key)",
+        "C. 超級鍵(Super key) .",
+        "D. 唯一索引鍵(Unique index key)第 2 頁，共 4 頁"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "下列何者是指在資料庫設計時，會遵循相同的設計模式，檢查資料是否重複存放，其目的是建立 「良好結構的關聯表」，這是一種沒有重複資料的關聯表，而且在新增、刪除或更新資料時，不會 造成錯誤或資料不一致？(*98)",
+      "options": [
+        "A. 最小化(Minimization) .",
+        "B. 最佳化(Optimization)",
+        "C. 視覺化(Visualization)",
+        "D. 正規化(Normalization)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "下列哪一個屬於護理資訊系統中建置措施及結果的標準依據？(*406)",
+      "options": [
+        "A. SNOMED",
+        "B. NHIRD .",
+        "C. NANDA-I",
+        "D. NLM"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "電腦化醫令 CPOE，是下列何者的縮寫？(*418)",
+      "options": [
+        "A. Computer Program one-Medicine",
+        "B. Communication Patient Observation Efficiency",
+        "C. Computerized Physician Order Entry",
+        "D. Clinical Path Operation Electronic"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "下列哪一套醫學詞彙代碼系統字詞間的關係是由語意網路來表達，而且具有處理相似詞、相反 詞、拼錯字及多國語言的能力？ (*68-69)",
+      "options": [
+        "A. DRG",
+        "B. ICD9-CM",
+        "C. UMLS",
+        "D. LOINC"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "醫院不論採用何種治療手段、藥物、住院天數，健保就只給醫院同一種給付價格的給付方式，是 根據下列何種代碼？(*67)",
+      "options": [
+        "A. MeSH",
+        "B. DICOM",
+        "C. LONIC",
+        "D. DRGs"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "中央健保署已開始實施國際疾病分類第十版 ICD-10-CM/PCS，請問其中的 PCS 代表？(*67, 時事 題)",
+      "options": [
+        "A. Progress Coding System (C)Procedure Coding System (C) 32. ICD-10-CM 代碼的長度最短有三碼，請問最長到幾碼？(*67, 時事題)\n(A)五碼",
+        "B. 六碼 .",
+        "C. 七碼",
+        "D. 八碼"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": ".(B)Process Coding System .(D)Program Coding System DRGs(住院診斷關聯群支付制度)確 實 是 一 個 可 抑 制 醫 療 浪 費 的 制 度 ， 但 是 配 套 措 施 一 定 要 周 全 ， 否 則 將 出 現 嚴 重 的 弊 端 。 ？(*68, 時事題) 請問下列何種屬於弊 端 之 一",
+      "options": [
+        "A. 病人遭醫院要求自費的機會增加",
+        "B. 複雜病患，醫院拒收",
+        "C. 病還沒治好，就被趕出醫院",
+        "D. 以上皆是"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "所謂 DICOM 是指下列何者的縮寫？(*71)",
+      "options": [
+        "A. Digital Image Common Model",
+        "B. Digital Identification Connection in Medicine",
+        "C. Diagnostic Imaging Communication in Medicine",
+        "D. Digital Imaging and Communication in Medicine"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "疾病管制署指標式傳染病監測，2014 年起透過防疫雲計畫所建立的病原體檢驗資料的實驗室自動 通報系統是採用哪一項標準？(*492)",
+      "options": [
+        "A. DICOM",
+        "B. NANDA",
+        "C. LOINC",
+        "D. SNOMED"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "與傳統手術比較，下列何種不屬於達文西手術的優點？(*474~485, 時事題)",
+      "options": [
+        "A. 傷口小、出血少、輸血機會小，達到真正微創無痕手術",
+        "B. 可讓術後疼痛減至最輕，並且讓病人更早恢復",
+        "C. 減少住院天數及感染風險",
+        "D. 健保可全額給付"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "下列有關加解密技術之描述何者正確？(*151-153)",
+      "options": [
+        "A. 醫療憑證管理中心採用對稱性加密系統",
+        "B. 非對稱性密碼系統，因為不需要考慮對稱性，所以速度較快",
+        "C. 傳輸大量的資料一般會用非對稱性加密系統直接加密之",
+        "D. 非對稱性密碼系統是因加密端與解密端用以加密與解密之金鑰不相同而得名"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "下列關於一般防火牆的敘述何者錯誤？(*141-143)",
+      "options": [
+        "A. 可比對入侵行為特徵碼",
+        "B. 可過濾封包來源及目的 IP 位址是否合法\n第 3 頁，共 4 頁",
+        "C. 可改變進出交通的 IP 位址",
+        "D. 可過濾封包是否使用合法的 TCP/UDP 埠號"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "跨醫療院所或衛生行政機關所採用的虛擬私有網路(Virtual Private Network, VPN)主要採用的資訊 安全技術，其中不包括下列何者？(*146-148)",
+      "options": [
+        "A. 穿隧(Tunneling)",
+        "B. 加解密(Encryption & Decryption)",
+        "C. 應用層過濾器(Application Filter)",
+        "D. 密鑰管理(Key Management)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "以下何者不是醫學資訊對電子簽章的要求？(*162~163)",
+      "options": [
+        "A. 團體簽章",
+        "B. 可偵測是否遭到修改",
+        "C. 可察覺的",
+        "D. 可解碼的"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "隱私之法律規範基本的法則概念皆為尊重個人控制其隱私資料之權利，在我國制定的法案稱為？ (*173)",
+      "options": [
+        "A. 電子簽章法",
+        "B. 健康保險可攜性規則法案",
+        "C. 電子病歷製作及管理辦法",
+        "D. 個人資料保護法"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "緊急醫療管理系統是空床資料，包裝成哪一種標準格式通報到衛生福利部指定的伺服器？(*304)",
+      "options": [
+        "A. DICOM",
+        "B. LOINC",
+        "C. HL7/XML",
+        "D. SNOMED"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "開發醫院資訊系統時，一般都以 ADT 來簡稱各科的作業流程並將其中所產生資料串接起來，以滿 足整體照護需求，請問 ADT 的全名是？(*304)",
+      "options": [
+        "A. Admissions, Diagnosis, Transport (C)Admissions, Discharge, Transport",
+        "B. Admissions, Diagnosis, Transfer\n(D)Admissions, Discharge, Transfer\n(A) 44. 病歷管理電腦化系統的功能，不包括下列何者？(*312)\n(A)護理評估系統 (B)疾病分類等檢索查詢系統",
+        "C. 病歷相關資料統計分析系統",
+        "D. 現場掛號和預約掛號系統"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "利用不同頻率的電磁波脈衝，引起人體不同器官內原子共振，再由原子回到基底狀態時，所放出 的能量，引起磁場向量的改變，接收感應線圈電流再轉換成影像的是下列哪一種造影技術？ (*378)",
+      "options": [
+        "A. CT(Computerized Tomography) (C)Ultrasound (D)X Ray\n的優點？(*381)",
+        "B. MRI (Magnetic Resonance Imaging)\n(D) 46. 下列何種不屬於 PACS(Picture Archiving and Communication System) (A)節省人工調閱傳統軟片時間與人力\n(B)改善檢查流程及縮短等候檢查時間",
+        "C. 節省傳統底片費用及顯影、定影液藥水等的消耗費用，且具環保概念",
+        "D. 醫護人員、病人或家屬皆可不受時空限制方便調閱"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "下列何者不是一般床邊監視器記錄的生理參數？(*391~392)",
+      "options": [
+        "A. 心電圖和呼吸",
+        "B. 血壓和血氧飽和濃度",
+        "C. 血糖和血脂肪成分",
+        "D. 體溫和心搏輸出量"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "醫療管理決策支援，採用資料倉儲或資料探勘的技術，以下列何者為主？(*602)",
+      "options": [
+        "A. 開放資料庫連結(Open Database Connectivity, ODBC)",
+        "B. 線上分析處理(Online Analytical Processing, OLAP)",
+        "C. 線上交易處理(Online Transaction Processing, OLTP)",
+        "D. 開放系統互連標準(Open System Interconnection Standard, OSIS)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "在大數據時代中，必須資料倉儲與商業智慧系統靈活運用，下列哪一種不是所應用到的技術？ (*602)",
+      "options": [
+        "A. 平衡計分卡(BSC)",
+        "B. 儀表板(Dashboard)",
+        "C. 資料純化(ETL)",
+        "D. 線上交易處理(OLTP)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "IHE 技術技架構所制定的整合規範書(integration profile)，主要是用何者來描述？(*620)",
+      "options": [
+        "A. Actors(角色)和 Transactions(交易)",
+        "B. Entity(實體)和 Act(行為)",
+        "C. Role(角色扮演)和 Participation(參與)",
+        "D. ActRelationship(行為關係)和 RoleLink(角色連結)"
+      ],
+      "answer": "A"
+    }
+  ]
+}

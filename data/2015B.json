@@ -1,0 +1,605 @@
+{
+  "year": "2015B",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "自動體外心臟電擊去顫器，能夠自動偵測傷病患心律脈搏、並施以電擊使心臟恢復正常 運作的儀器。其英文標誌是?(時事題)",
+      "options": [
+        "A. ABC",
+        "B. ACD",
+        "C. AED",
+        "D. ASD"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "八仙塵爆造成許多傷燙傷患者需要接受植皮手術，植皮手術英文是?(時事題)",
+      "options": [
+        "A. Skeocytosis",
+        "B. Sacrococyx",
+        "C. Siphac",
+        "D. Skin Grafting"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "何者是指注意力缺失與過動障礙?(**158)",
+      "options": [
+        "A. ADID",
+        "B. ADHD",
+        "C. SNOMED",
+        "D. MeSH"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Glaucoma 是指?(**108)",
+      "options": [
+        "A. 高血糖症",
+        "B. 黃疸",
+        "C. 貧血",
+        "D. 青光眼"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "何者是指骨盆腔的肌肉、韌帶及各層結締組織鬆弛後，子宮因地心引力牽扯而往下掉， 並 且常常伴隨膀胱、尿道、腸子等器官脫垂，造成許多不適與後遺症?(**135)",
+      "options": [
+        "A. Umbilical Cord Prolapse",
+        "B. Venereal Disease",
+        "C. Prolapse Vagina",
+        "D. Uterine Prolapse"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "天才與精神病患往往僅是一線之隔。研究指出，作家、舞蹈家和攝影師等創意工作者， 罹患躁鬱症的機率比常人高，但在受心魔折磨的過程中，卻又享有異於常人的創造力。 躁鬱症(亦稱雙極性疾患)的英文是?(**158)",
+      "options": [
+        "A. Depressive Disorder",
+        "B. Dementia",
+        "C. Bipolar Disorder",
+        "D. Exhibitionism"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "八仙氣爆案傷者由於許多人都是大面積燒傷，患者陸續出現感染、發燒狀況引發敗血症。 敗血症英文是指?(**7)",
+      "options": [
+        "A. Septicemia",
+        "B. Sinusitis",
+        "C. Pyothorax",
+        "D. Dyspepsia"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Carpal Tunnel Syndrome 是指?(**8)",
+      "options": [
+        "A. 蜘蛛膜下腔出血",
+        "B. 腕隧道症候群",
+        "C. 心房撲動",
+        "D. 蜂窩組織炎"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Magnetic Resonance Imaging (MRI) 是指?(*164)",
+      "options": [
+        "A. 內視鏡檢查",
+        "B. 癌症基因篩檢",
+        "C. 磁振造影掃描",
+        "D. 正子斷層造影\n1"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "資料庫的三層綱要架構中，哪一層常使用實體關聯模型(Entity-Relationship Model; ERM) 的工具設計?(*101)",
+      "options": [
+        "A. 外部層",
+        "B. 概念層",
+        "C. 內部層",
+        "D. 實體層"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "DBMS 中關於交易（Transaction）的特性，下列敘述何者錯誤?(*103)",
+      "options": [
+        "A. 交易過程中資料庫必須保持一致性",
+        "B. 整個交易指令視為一個不可分割的單元",
+        "C. 交易過程中所用到的資料不可受到其它交易讀取或修改",
+        "D. 交易確認執行後對資料庫的更新是永久性的"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "醫療機構之組織型態將會影響機構的營運與效率。臺灣目前醫院之組織型態大多屬於 何種形式?(*11)",
+      "options": [
+        "A. 矩陣式",
+        "B. 專科式",
+        "C. 功能式",
+        "D. 平行式"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "關聯式資料庫的掛號資料表與醫師資料表是透過醫師代碼互相關聯，下列敘述何者正 確?(*112)",
+      "options": [
+        "A. 醫師代碼在掛號資料表中，可以作為主鍵(Primary Key)",
+        "B. 醫師代碼在掛號資料表中，具有唯一性",
+        "C. 對於掛號資料表而言，醫師代碼欄位是參照醫師資料表的外來鍵(Foreign Key)",
+        "D. 依照個體完整性限制，醫師代碼在醫師資料表中可以是空值"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "下列何者可做為關聯式資料庫的資料表主鍵(Primary Key)(*112)",
+      "options": [
+        "A. 身份證號碼",
+        "B. 員工代碼",
+        "C. 學號",
+        "D. 以上皆可"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "下列何者是指在資料庫設計時，會遵循相同的設計模式，檢查資料是否重複存放，其目 的是建立「良好結構的關聯表」，這是一種沒有重複資料的關聯表，而且在新增、刪除 或更新資料時，不會造成錯誤或資料不一致?(*115)",
+      "options": [
+        "A. 最小化(Minimization)",
+        "B. 最佳化(Optimization)",
+        "C. 視覺化(Visualization)",
+        "D. 正規化(Normalization)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "下列何者是超高速乙太網路(Gigabit Ethernet)採用的通訊協定? (*144)",
+      "options": [
+        "A. CSMA/CD",
+        "B. Token-Ring",
+        "C. IEEE 802.4",
+        "D. IEEE 802.11"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "在乙太網路架構下，管理各項網路設備通常使用何種通訊協定進行溝通?(*151) 2",
+      "options": [
+        "A. SCJP",
+        "B. SCWCD",
+        "C. SNOMED",
+        "D. SNMP"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "醫療資訊大約可分為三類，通常心電圖和腦波圖屬於哪一類?(*156)",
+      "options": [
+        "A. 文數字資料",
+        "B. 影像資料",
+        "C. 生理訊號",
+        "D. 3D 動畫"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "在分析生理訊號時，如果想要濾除高頻雜訊，應該使用何種濾波器?(*158)",
+      "options": [
+        "A. 高通濾波器",
+        "B. 低通濾波器",
+        "C. 帶通濾波器",
+        "D. 帶限濾波器"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "資訊安全的目標有所謂的C.I.A.三原則，是指下列何者?(*170)",
+      "options": [
+        "A. 保護資料及系統資源的機密性、整體性和可取用性",
+        "B. 保護資料、系統和設備不要被駭客攻擊",
+        "C. 資料的加密、解密和密鑰管理",
+        "D. 防火牆、虛擬私有網路和認證中心"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "醫療資訊安全的宗旨在保護資料及系統的機密性、整體性及可取用性。下列敘述何者 錯誤?(*170)",
+      "options": [
+        "A. 機密性的目標在保護病患隱私",
+        "B. 整體性的目標是資料必須保持一致性以及有意義的正確結果",
+        "C. 可取用性：資料及系統不需即時回應",
+        "D. 可取用性：具有容錯能力"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "下列關於一般防火牆的敘述何者錯誤?(*175)",
+      "options": [
+        "A. 可比對入侵行為特徵碼",
+        "B. 可過濾封包來源及目的IP 位址是否合法",
+        "C. 可改變進出交通的IP 位址",
+        "D. 可過濾封包是否使用合法的TCP/UDP 埠號"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "我國目前在中央健保署運作的電子病歷交換網路採用何種網路技術傳輸資料，並設有多 道防火牆來降低駭客入侵系統或盜取資料之風險?(*175-179、時事題)",
+      "options": [
+        "A. SOAP",
+        "B. Proxy",
+        "C. SNMP",
+        "D. VPN"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "目前我國二代健保卡採用何種公開金鑰演算法來保護個人資料?(*184)",
+      "options": [
+        "A. RSA",
+        "B. DES",
+        "C. RC4",
+        "D. MD5"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "以下對於公開金鑰基礎建設(PKI)的敘述，何者正確?(*185) 3",
+      "options": [
+        "A. 公開金鑰可以用來進行電子簽章",
+        "B. 公開金鑰是為了開啟分享的資料檔案",
+        "C. 是一種駭客用來破解密碼的方法",
+        "D. 傳送者可以取得接收者的公開金鑰，將資料加密後再傳送"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "醫院資訊系統委外開發為目前廣被醫院採用的一種模式，下列何者是委外大型廠商開 發的優點?(*215)",
+      "options": [
+        "A. 大型廠商經驗豐富",
+        "B. 大型廠商議價占優勢",
+        "C. 大型廠商設備齊全",
+        "D. 已上皆是"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "當醫院要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、 舊資訊系統間所產生數據的對應關係，應進行何種測試?(*248)",
+      "options": [
+        "A. 平行測試",
+        "B. 整體測試",
+        "C. 整合測試",
+        "D. 單元測試"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "醫院資訊系統建置完成後保固一年，對於程式撰寫錯誤或規劃錯誤所做的維護工作， 是屬於哪一種維護?(*266)",
+      "options": [
+        "A. 預防性維護",
+        "B. 完善性維護",
+        "C. 矯正性維護",
+        "D. 適應性維護"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "掛號及批價管理是醫院行政中的何種任務?(*279)",
+      "options": [
+        "A. 醫療事務",
+        "B. 經營管理",
+        "C. 醫療照護",
+        "D. 醫師服務"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "在健保支付制度中，使用於長期照護的RUGs ，是屬於下列哪一種?(*285)",
+      "options": [
+        "A. 論量計酬",
+        "B. 論病例計酬",
+        "C. 論日計酬",
+        "D. 論人計酬"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "下列關於各種健保支付制度的敘述何者正確?(*286)",
+      "options": [
+        "A. 論量計酬-有效控制醫療費用上漲",
+        "B. 論日計酬-作業簡單，行政成本低",
+        "C. 論人計酬-醫師的醫療行為自主權高",
+        "D. 總額預算制-行政作業成本低"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "下列何者不是檢驗室建構檢驗資訊系統的優點?(*365)",
+      "options": [
+        "A. 增加病人住院日，減少病床周轉率",
+        "B. 減少批價漏失",
+        "C. 可準確複檢檢體，減少試劑浪費",
+        "D. 增加病歷紀錄的完整性"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "對於醫學影像存取與傳輸系統PACS 的敘述，下列何者錯誤(*405)",
+      "options": [
+        "A. 是Picture Archiving and Communication System 的縮寫",
+        "B. 從數位化的影像設備取得影像\n4",
+        "C. 透過放射科資訊系統RIS 的界面，可以取得病人的基本資料",
+        "D. 只能在院內區域網路(LAN)傳輸，無法透過廣域網路(WAN)跨院傳輸"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "利用醫療影像存取與傳輸系統(PACS)可讓各院的影像能自由自在的相互傳輸、整合， 以達到診斷或治療計畫的參考，主要是靠下列何種協定來完成?(*405)",
+      "options": [
+        "A. SNOMED",
+        "B. LOINC",
+        "C. NANDA",
+        "D. DICOM"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "對於臨床路徑的敘述，下列何者不正確?(*481)",
+      "options": [
+        "A. 根據某種疾病或某種手術方法制定了一種治療模式，讓病患由住院到出院都依此\n模式來接受治療",
+        "B. 路徑完成後，根據結果來分析、評估及檢討每一個病人的差異，以避免下一個病\n人發生同樣的差異或錯誤",
+        "C. 先追求讓病患在最短的住院日數內，就可以痊癒出院，而不須顧慮在一定時間內，\n病患會不會為了同一種疾病再次住院",
+        "D. 找出一種最適當的治療方法，暨可以減少醫療費用，又可以維持或改進醫療品質的\n模式。"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "疾病監測也稱流行病學監測，是指透過持續的收集、分析、解釋、描述疾病相關資料， 進而有效控制疾病。下列何者是疾病監測的目的?(*527)",
+      "options": [
+        "A. 制定與評估防疫政策",
+        "B. 偵測即時疫情",
+        "C. 建立疾病自然史",
+        "D. 已上皆是"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "登革熱屬於那一類傳染病?(*529)",
+      "options": [
+        "A. 第一類",
+        "B. 第二類",
+        "C. 第三類",
+        "D. 第四類"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "電子病歷上之簽名或蓋章，依法應以電子簽章方式為之，且應在病歷製作後多久內完 成?(*548)",
+      "options": [
+        "A. 12 小時",
+        "B. 24 小時",
+        "C. 48 小時",
+        "D. 72 小時"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "戴明的PDCA 循環是指下列何者?(*565)",
+      "options": [
+        "A. Plan， Diagnosis， Control， Assessment",
+        "B. Plan， Do， Check，Action",
+        "C. Paper， Document， Change， Access",
+        "D. Plan， Do， Check， Assessment\n5"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "全民健保資料庫的承保抽樣歸人檔，不包含下列哪一種檔案?(*598)",
+      "options": [
+        "A. 急診處方及治療明細檔",
+        "B. 門診處方及治療明細檔",
+        "C. 特約藥局處方及調劑明細檔",
+        "D. 住院醫療費用清單明細檔"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "在資訊時代，醫療企業掌握「贏」的最大關鍵在於?(*652)",
+      "options": [
+        "A. 如何把資料轉換成資訊，再將資訊轉換成知識",
+        "B. 如何把時間轉換成空間，再將空間轉換成人間",
+        "C. 如何把人流轉換成物流，再將物流轉換成金流",
+        "D. 如何把紙本轉換成電子檔，再將電子檔轉換成數位檔"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "下列有關醫療資訊標準之敘述何者錯誤?(*85)",
+      "options": [
+        "A. 健保署目前採用ICD-10-CM 做為保險給付之疾病代碼標準",
+        "B. SNOMED 允許使用者自行利用其多軸組合的機制來描述複雜的症狀及診斷",
+        "C. LONIC 是目前臨床檢驗檢查編碼系統的主流",
+        "D. MeSH 是一套專為醫學文獻分類所設計的樹狀詞彙系統。"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "下列何者為正確的敘述?(*85-90)",
+      "options": [
+        "A. ICD-9 的 9 代表第九版",
+        "B. 健保署目前使用的是ICD-10",
+        "C. HL7 的 7 代表第七版",
+        "D. DICOM 是醫療數值資料的傳輸交換標準"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "對於HL7 的相關敘述，下列何者錯誤?(*88)",
+      "options": [
+        "A. HL7 是屬於共識型標準",
+        "B. HL7 協會已經成為美國 ANSI 認可的標準發展組織",
+        "C. HL7 標準的3.0 版本採用物件導向式設計",
+        "D. HL7 標準的3.0 版本在訊息傳送格式上，仍然採用傳統CSV，並不支援 XML 格\n式"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "各醫療儀器廠商常宣稱支援標準，但實際連測時卻常互不相容，因此美國 HIMMS 和 RSNA 兩大協會於1999 年開始，共同定出何種技術架構，解決系統互操作性 (Interoperability)的問題?(*90)",
+      "options": [
+        "A. 邏輯檢驗檢查編碼系統(LOINC)",
+        "B. 臨床文件架構(CDA)",
+        "C. 健康資訊產業整合(IHE)",
+        "D. 統一醫學語言系統(UMLS)\n6"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "下列關於醫療資訊標準推動的好處何者錯誤?(*93)",
+      "options": [
+        "A. 交換性：跨醫療院所交換資料無需修改程式或資料庫",
+        "B. 整合性：在相同的標準下，不同功能之系統下進行整合，必須把所有系統交由同一\n廠商承包",
+        "C. 獨立性：可做單獨系統之修改或升級，而不必擔心影響其它系統",
+        "D. 提升國內醫療資訊產業競爭力"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "資料庫在醫療資訊系統之扮演十分重要的角色，下列有關資料庫之敘述何者錯誤? (*98)",
+      "options": [
+        "A. 資料庫必須要有一個資料庫管理系統",
+        "B. 資料庫是指一群相關資料的集合體，可有效的組織、儲存和查閱相關資料",
+        "C. 使用者需要知道存放資料的磁碟實體位置",
+        "D. 資料庫管理系統是介於使用者與資料檔案間的中介軟體系統"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "醫療管理決策支援，採用資料倉儲或資料探勘的技術，以下列何者為主?(*653)",
+      "options": [
+        "A. 開放資料庫連結(Open Database Connectivity, ODBC)",
+        "B. 線上分析處理(Online Analytical Processing, OLAP)",
+        "C. 線上交易處理(Online Transaction Processing, OLTP)",
+        "D. 開放系統互連標準(Open System Interconnection Standard, OSIS)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "ICD-10-CM/PCS 中的PCS 代表?(時事題，*85)",
+      "options": [
+        "A. Program Coding System",
+        "B. Process Coding System",
+        "C. Progress Coding System",
+        "D. Procedure Coding System"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "電腦間通訊的基本原則是由下列哪一個組織所制定的OSI (Open Systems Interconnection) reference model? (*87)",
+      "options": [
+        "A. ANSI",
+        "B. ISO",
+        "C. EDIFACT",
+        "D. CEN"
+      ],
+      "answer": "B"
+    }
+  ]
+}

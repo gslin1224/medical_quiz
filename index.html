@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>刷題系統 v3.2 修正</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body style="height: auto;">
+  <div class="app" style="height: auto; min-height: 100vh;">
+    <nav class="sidebar">
+      <h2>選單</h2>
+      <button onclick="switchView('quiz')">📘 題目作答</button>
+      <button onclick="switchView('wrong')">❌ 錯題記錄</button>
+    </nav>
+
+    <main class="main-content" style="height: auto; overflow-y: visible;">
+      <section id="quiz-view">
+        <h1>📘 醫管刷題系統</h1>
+        <div class="selector">
+          <label for="dataset-select">選擇年份/回數：</label>
+          <select id="dataset-select">
+            <option value="">-- 請選擇 --</option>
+            <option value="2015A">2015 上</option>
+            <option value="2015B">2015 下</option>
+            <option value="2016A">2016 上</option>
+            <option value="2016B">2016 下</option>
+            <option value="2017A">2017 上</option>
+            <option value="2017B">2017 下</option>
+            <option value="2018A">2018 上</option>
+            <option value="2018B">2018 下</option>
+            <option value="2019A">2019 上</option>
+            <option value="2019B">2019 下</option>
+            <option value="2020A">2020 上</option>
+            <option value="2020B">2020 下</option>
+            <option value="2021A">2021 上</option>
+            <option value="2021B">2021 下</option>
+            <option value="2022A">2022 上</option>
+            <option value="2022B">2022 下</option>
+            <option value="2023A">2023 上</option>
+            <option value="2023B">2023 下</option>
+            <option value="2024A">2024 上</option>
+            <option value="2024B">2024 下</option>
+            <option value="2025A">2025 上</option>
+          </select>
+          <button id="load-btn">載入題庫</button>
+        </div>
+
+        <form id="quiz-form" style="padding-bottom: 100px;"></form>
+        <button id="submit-btn" style="display:none">交卷</button>
+        <div id="result-box"></div>
+
+        <h2>📊 歷史成績</h2>
+        <ul id="history"></ul>
+      </section>
+
+      <section id="wrong-view" style="display:none">
+        <h1>❌ 錯題記錄</h1>
+        <div id="wrong-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

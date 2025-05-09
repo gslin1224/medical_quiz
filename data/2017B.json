@@ -1,0 +1,593 @@
+{
+  "year": "2017B",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "白血病又稱血癌，是鄉土劇中常見的生病橋段。主因骨髓造血細胞產生不正常增生，進而影響骨 髓造血功能的惡性疾病。『白血病』的英文是？(**33)",
+      "options": [
+        "A. Thrombocytosis",
+        "B. Leukemia",
+        "C. Splenomegaly",
+        "D. Albumin"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "警察專科學校學員在 3000 公尺跑步測驗時突然跌倒昏倒，送醫急救。昏倒的英文是：(**27)",
+      "options": [
+        "A. Edema",
+        "B. Fainting",
+        "C. Arteriosclerosis",
+        "D. Arrhythmia"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "一例一休鬆綁，多數上班族憂過勞。新北首任技職科長疑過勞腦出血，最後腦死器捐。腦出血的 英文是：(**66)",
+      "options": [
+        "A. Cerebral Hemorrhage",
+        "B. Parkinson's Disease",
+        "C. Epilepsy",
+        "D. Diabetes Mellitus"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "人工授精主要作為治療不孕不育的輔助生殖技術，但近來也不少人利用捐精者提供的精子使女性 無需男性夥伴便可懷孕生子。人工授精的英文是：",
+      "options": [
+        "A. Artificial Insemination",
+        "B. Artificial Abortion",
+        "C. Caesarean Section",
+        "D. Painless Labor"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "現在很多小孩子有注意力缺失與過動障礙(ADHD)問題，英文是：(**158)",
+      "options": [
+        "A. Adjustment Disorder/Hyperactivity Disorder",
+        "B. Anxiety Disorder/Hyperactivity Disorder",
+        "C. Attention-Deficit/Hyperactivity Disorder",
+        "D. Attention-Deficit/Hostile Disorder"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "研究報告指出，嚼食檳榔的民眾得到口腔癌的機率是一般人的 28 倍。口腔癌的英文是：(**110)",
+      "options": [
+        "A. Lung Cancer",
+        "B. Orbital Cancer",
+        "C. Oral Cancer",
+        "D. Breast Cancer"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "「敗血性休克」是敗血症造成的重症。Multiple-Resistant Staphylococcus Aureus，簡稱 MRSA，常 常是元凶。MRSA 是：(**103)",
+      "options": [
+        "A. 抗藥性金黃色葡萄球菌",
+        "B. 肺炎雙球菌",
+        "C. 結核菌",
+        "D. 芽孢菌"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "亂服藥容易造成 Chronic Renal Failure，它是指：(**95)",
+      "options": [
+        "A. 慢性肺阻塞",
+        "B. 慢性腎衰竭",
+        "C. 蜂窩組織炎",
+        "D. 視網膜剝離"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "下列哪一種醫療費用支付制度，對於全民健保初期論量計酬收支困境的改善幫助不大？(*31、 286)",
+      "options": [
+        "A. 論日計酬",
+        "B. 論病例計酬",
+        "C. 論人計酬",
+        "D. 總額預算制度"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "醫療資訊標準的推動可帶來四項主要的好處，請問下列何者不屬於其中之一的好處？(*93)",
+      "options": [
+        "A. 交換性",
+        "B. 整合性",
+        "C. 獨立性",
+        "D. 排他性"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "CEN TC251 是屬於下列何者的第 251 號技術委員會？(*82)",
+      "options": [
+        "A. 中華民國國家標準組織",
+        "B. 國際標準組織",
+        "C. 美國國家標準組織",
+        "D. 歐洲標準委員會"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "資料庫的 SQL 是下列何者的縮寫？(*99)",
+      "options": [
+        "A. Standardized Question Layer (C)Structured Query Language",
+        "B. Standardized Query Language\n(D)System Quality Logical\n(A) 13. 以下何者並非網路效能測量值?(*137)\n(A)Security (B)Delay",
+        "C. Reliability",
+        "D. Capacity"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "一般程式開發階段，程式設計師所必須進行的測試項目以單元測試為主，它係以系統中最小單 位的程式模組為對象，一般都採用下列哪種技術來測試程式模組中的重要控制路徑，找出程式 可能發生的錯誤？(*239)",
+      "options": [
+        "A. 白箱測試",
+        "B. 黑箱測試",
+        "C. 回復測試",
+        "D. 壓力測試"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "系統測試的方式包括 A:驗收測試、B：整合測試、C：單元測試、和 D：整體測試或平行測 試，一般的先後順序為何？(*246)",
+      "options": [
+        "A. A->B->C->D",
+        "B. C->B->A->D",
+        "C. B->C->D->A",
+        "D. C->D->B->A"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "美國病歷協會將電子病歷的發展，區分為幾個不同的階段，下列先後順序，何者正確？(*34)",
+      "options": [
+        "A. 病歷自動化、電子健康紀錄、電子病歷",
+        "B. 病歷自動化、電子病歷、電子健康紀錄",
+        "C. 電子病歷、病歷自動化、電子健康紀錄",
+        "D. 電子健康紀錄、病歷自動化、電子病歷"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "下列關於一般防火牆的敘述何者錯誤?(*175)",
+      "options": [
+        "A. 可比對入侵行為特徵碼",
+        "B. 可過濾封包來源及目的 IP 位址是否合法",
+        "C. 可改變進出交通的 IP 位址",
+        "D. 可過濾封包是否使用合法的 TCP/UDP 埠號"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "公開資料庫時的第一步隱私保護技術，必須先將能識別個人之欄位移除的動作為下列何者？ (*205)",
+      "options": [
+        "A. 知情同意權(informed consent)",
+        "B. 身分認證(Authentication)",
+        "C. 去識別化(deidentification)",
+        "D. 多方私密計算(multiparty secure computation)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "護理資訊系統必須結合護理過程來設計，護理過程通常是依照下列哪一種順序？(*429)",
+      "options": [
+        "A. 病人評估、診斷、計畫、護理措施、成果評值",
+        "B. 成果評值、計畫、病人評估、護理措施、診斷",
+        "C. 護理措施、診斷、病人評估、計畫、成果評值",
+        "D. 病人評估、護理措施、診斷、成果評值、計畫"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "下列何者是由美國國家醫學圖書館(NLM)計畫所發展的醫學詞彙標準，以 metathesaurus 彙整各 種不同的醫學詞彙，並且以 semantic network 表達字詞間的關係？(*86)",
+      "options": [
+        "A. ICD",
+        "B. LOINC",
+        "C. SNOMED",
+        "D. UMLS"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "跨醫療院所或衛生行政機關所採用的虛擬私有網路(Virtual Private Network, VPN)主要採用的資 訊安全技術，其中不包括下列何者？(*179)",
+      "options": [
+        "A. 穿隧(Tunneling)",
+        "B. 加解密(Encryption & Decryption)",
+        "C. 應用層過濾器(Application Filter)",
+        "D. 密鑰管理(Key Management)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "下列何者是專案成功的三大元素？(*226)",
+      "options": [
+        "A. 人員、設備、資金",
+        "B. 品質、時間、成本",
+        "C. 規劃、設計、執行",
+        "D. 合約、監督、驗收"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "為了確保交易執行的正確性，一個交易在資料庫管理系統中具有四種特性及所謂交易的 ACID 特 性，請問下列何者不屬於 ACID 特性？(*103~104)",
+      "options": [
+        "A. 單元性(Atomicity)",
+        "B. 一致性(Consistency)",
+        "C. 獨立性(Independency)",
+        "D. 永久性(Durability)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "住院藥局的藥矚類型分為三類，請問藥矚配發一次量，每次劑量等於總量，停藥時間系統自動設 定為啟用時間，這是屬於下列何者藥矚？(*294)",
+      "options": [
+        "A. 短期藥矚",
+        "B. 長期藥矚",
+        "C. 立即給藥藥矚",
+        "D. 需要時使用藥矚"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "對於 HL7 標準組織的敘述，下列何者有誤？(*87)",
+      "options": [
+        "A. 是由國際上七家主要的醫療資訊廠商在互利的情況下所組成的協會",
+        "B. 臨床文檔架構(CDA)是由 HL7 組織所制定的標準",
+        "C. HL7 已經成為 ANSI 認可的標準發展組織",
+        "D. HL7 的 3.0 版本直接支援 XML 格式"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "資訊安全目標的宗旨在於保護資料及系統資源的三種性質，下列何者不是其中之一？(*170-171)",
+      "options": [
+        "A. Integrity",
+        "B. Confidentiality",
+        "C. Availability",
+        "D. Authority"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "資訊安全目標必須從四個方向來考慮，下列何者不屬於這四個方向？(*171)",
+      "options": [
+        "A. 系統安全",
+        "B. 資料安全",
+        "C. 程式安全",
+        "D. 人身安全"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "開發醫院資訊系統時，一般都以 ADT 來簡稱各科的作業流程並將其中所產生資料串接起來，以 滿足整體照護需求，請問 ADT 的全名是？(*330)",
+      "options": [
+        "A. Admissions, Discharge, Transfer",
+        "B. Admissions, Diagnosis, Transfer",
+        "C. Admissions, Discharge, Transport",
+        "D. Admissions, Diagnosis, Transport"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "在藥物資訊系統中，有提供用藥警示功能，請問藥物交互作用警示是為了避免何種狀況？(*378)",
+      "options": [
+        "A. 重複處方",
+        "B. 藥物不良事件",
+        "C. 藥物過量",
+        "D. 以上皆非"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "疾病監測希望能夠達成的目的，不包括下列哪一項？(*527)",
+      "options": [
+        "A. 偵測即時疫情",
+        "B. 建立疾病自然史",
+        "C. 防疫政策的制定與評估",
+        "D. 防疫物資準備"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "對於 HIMSS 與 RSNA 聯合提出的企業醫療資訊整合 IHE，下列的敘述何者不正確?(*666)",
+      "options": [
+        "A. IHE 是 Integrating the Healthcare Enterprise 的縮寫",
+        "B. IHE 定期舉辦實機聯測的活動，並將檢測的結果上網提供查詢",
+        "C. IHE 的技術架構可以分為 Integrating Profiles、Actors 和 Transactions",
+        "D. IHE 是依照診療科別的領域，制定工作流程的規範，包括內科、外科、婦產科和兒科等"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "LOINC 是下列何者的編碼系統？(*86)",
+      "options": [
+        "A. 藥劑處方",
+        "B. 檢驗檢查",
+        "C. 影像儀器",
+        "D. 醫學辭彙"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "可自動將病人的檢驗結果與生物區間做比對，如超出正常範圍要特別顯示，請問這是屬於下列哪 一種比對？(*363)",
+      "options": [
+        "A. 正常值比對",
+        "B. 前後值比對",
+        "C. 區間值比對",
+        "D. 危險值比對"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "對於藥物不良反應的敘述，下列何者錯誤？(*393)",
+      "options": [
+        "A. ADR 是 Adverse Drug Reaction 的縮寫",
+        "B. 一般分為輕度、中度和嚴重三種等級的不良反應",
+        "C. 會延長病人住院時間，且造成病人不舒服是屬於輕度不良反應",
+        "D. 會造成病人死亡或危及生命是屬於嚴重的不良反應"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "衛生福利部的遠距健康照護計畫，主要分為三種健康照護服務模式，不包括下列哪一種?(*645)",
+      "options": [
+        "A. 機構式",
+        "B. 社區式",
+        "C. 行動式",
+        "D. 居家式"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "對於醫療資訊系統的英文縮寫，下列何者不正確？(*424)",
+      "options": [
+        "A. LIS 為檢驗資訊系統",
+        "B. MIS 為護理資訊系統",
+        "C. PIS 為藥局資訊系統",
+        "D. RIS 為放射影像資訊系統"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "流感疫苗從今年十月一日開始施打，請問下列何者不符合補助資格(*527~531)",
+      "options": [
+        "A. 50 歲以上",
+        "B. 高風險慢性病或 BMI >= 30",
+        "C. 孕婦",
+        "D. 12 個月內嬰兒之父母"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "依據「醫療機構電子病歷製作及管理辦法」中，對於電子病歷資訊系統應有符合規定的管理措 施，其中不包括下列哪一項？(*548)",
+      "options": [
+        "A. 訂有保障電子病歷資料安全之機制",
+        "B. 訂有符合醫療資訊標準交換之機制",
+        "C. 訂有保持資訊系統時間正確之機制",
+        "D. 訂有系統故障之緊急應變機制"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "在三層式資料庫結構中，提供使用者描述整體性的資料結構是哪個層次？(*101)",
+      "options": [
+        "A. 內部層次",
+        "B. 資料層次",
+        "C. 概念層次",
+        "D. 外部層次"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "在資訊系統測試期間，因修正動作持續不斷進行，為確保提供的系統係最新且一致，所須採用的 控管為？(*248)",
+      "options": [
+        "A. 架構管控",
+        "B. 版本管控",
+        "C. 人員管控",
+        "D. 安全管控"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "下列那一項並非 JCAHO 建議的病人安全目標之一？(*509)",
+      "options": [
+        "A. 病人辨識之準確性",
+        "B. 醫療服務者間之有效溝通",
+        "C. 病歷資料加密保護病人隱私",
+        "D. 增進藥物之用藥安全"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "電腦化醫令配合電子病歷，可以進一步的發展臨床決策支援系統(CDSS)，是指下列何者？(*454)",
+      "options": [
+        "A. Clinical Decision Support System",
+        "B. Clinical Document Structure System",
+        "C. Computerized Design Service Support",
+        "D. Computerized Decision Support Services"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "急診檢傷分五級，請問下列何者屬於第一級？(*318)",
+      "options": [
+        "A. 危急(Emergent)",
+        "B. 復甦急救(Resuscitation)",
+        "C. 緊急(Urgent)",
+        "D. 次緊急(Less Urgent)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "全民健康保險資料庫的承保抽樣歸人檔，每組共抽出五萬人，抽出樣本之哪三種變項的分佈，與 母體間並無明顯差異？(*598)",
+      "options": [
+        "A. 投保的保費、地區、行業別",
+        "B. 門診、住院、特約藥局",
+        "C. 科別、診斷、用藥",
+        "D. 年齡、性別、費用"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "健康資訊產業整合標準(IHE)定義及公布的技術規範，是希望醫療資訊系統應具備哪一種特性？ (*666)",
+      "options": [
+        "A. Availability (可用性)",
+        "B. Confidentiality (機密性)",
+        "C. Integrity (完整性)",
+        "D. Interoperability (互操作性)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "請問下列何者不屬於電子簽章的立法原則？(*191~192)",
+      "options": [
+        "A. 技術中立原則",
+        "B. 契約自由原則",
+        "C. 市場導向原則",
+        "D. 官方主導原則"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "下列何者非一般加護病房之床邊生理監視器介面連接的儀器？(*417)",
+      "options": [
+        "A. 心電圖機",
+        "B. 呼吸器",
+        "C. 點滴幫浦",
+        "D. 血糖機"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "Health on the Net Foundation 所訂定的醫學及健康網站執行原則 Hon code，不包括下列何者？ (*583)",
+      "options": [
+        "A. 著者透明化：能與作者聯繫",
+        "B. 諮詢內容透明化：網站應確實公布病人姓名及諮詢內容",
+        "C. 贊助者透明化：公開資金、基金或政府贊助",
+        "D. 廣告及編輯方針的公正誠實"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "網路是一種分散且異質的環境，要做好網路管理，網路管理者必須透過軟體工具與網路設備溝 通，一般所採用的「簡易網路管理通訊協定」是下列哪一種協定？ (*150)",
+      "options": [
+        "A. SNMP",
+        "B. SOAP",
+        "C. SMTP",
+        "D. SNCP"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "請問下列何者不屬於 SOAP 其中之一？(*461)",
+      "options": [
+        "A. Subjective",
+        "B. Objective",
+        "C. Assignment",
+        "D. Plan"
+      ],
+      "answer": "C"
+    }
+  ]
+}

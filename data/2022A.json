@@ -1,0 +1,605 @@
+{
+  "year": "2022A",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "國內出現首例 Omicron 染疫兒童死亡的個案，因敗血症導致腦幹腦炎病逝。敗血症英文是指？ (**36)",
+      "options": [
+        "A. Sinusitis",
+        "B. Septicemia",
+        "C. Pyothorax",
+        "D. Dyspepsia"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "從 2022 年開始主要都是以 Omicron 疫情為主，但統計下來發現高達 9 成染疫的患者都是輕 症、無症狀居多。無症狀的英文是？(時事,58,59)",
+      "options": [
+        "A. Severe",
+        "B. Asymptomatic",
+        "C. Softness",
+        "D. Benign"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "甲狀腺機能亢進會致使新陳代謝加快，造成全身性不適。甲狀腺的英文是？(*71)",
+      "options": [
+        "A. Thyroid",
+        "B. Adrenal Gland",
+        "C. Sebaceous Gland",
+        "D. Tonsil"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "骨關節炎好發於負重關節及指關節，通常發生在 45 歲以後，因為長久以來關節所承受的負荷 及傷害所造成，其中骨關節炎的英文是？(**84)",
+      "options": [
+        "A. Osteotomy",
+        "B. Osteoporosis",
+        "C. Osteoarthritis",
+        "D. Osteomyelitis"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "兩位澳洲醫師巴裡馬歇爾和羅賓沃倫於 1981 年發現幽門螺旋桿菌才是造成胃潰瘍病因，而非 過去熟知的壓力或生活不正常等因素。『胃潰瘍』的英文是？(**9,114)",
+      "options": [
+        "A. Pneumothorax",
+        "B. Duodenal Ulcer",
+        "C. Gastric Ulcer",
+        "D. Dentalgia"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "人工授精主要作為治療不孕不育的輔助生殖技術，但近來也不少人利用捐精者提供的精子使女 性無需男性夥伴便可懷孕生子。人工授精的英文是？(**135)",
+      "options": [
+        "A. Artificial Insemination",
+        "B. Artificial Abortion",
+        "C. Caesarean Section .",
+        "D. Painless Labor"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "這波被匡列、被隔離的人很多，很多人有焦慮、憂鬱，甚至會有憤怒情緒的狀況。焦慮的英文 是？(**173)",
+      "options": [
+        "A. Melancholy",
+        "B. Anxiety",
+        "C. Irritable",
+        "D. Exhausted"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "一般出院病歷摘要通常包含主訴、病史、體檢發現、併發症、出院指示與用藥等資訊，其中 『主訴』的英文是？(**187)",
+      "options": [
+        "A. Chief Complications",
+        "B. Chief Report",
+        "C. Chief Check",
+        "D. Chief Complaint"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "臺灣防疫成績斐然，更凸顯臺灣健康雲計畫實施的重要性，請問下列何者是健康雲的四朵子 雲？(*30)",
+      "options": [
+        "A. 醫藥、公衛、長照及防疫",
+        "B. 醫管、照護、保健及防疫",
+        "C. 醫療、照護、保健及防疫",
+        "D. 醫管、公衛、長照及防疫"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "臺灣健康雲包含四朵子雲，請問健康雲中央的國民健康資料不包括下列哪種資料？(*31)",
+      "options": [
+        "A. 個人健康資料",
+        "B. 個人照護資料",
+        "C. 個人病歷資料",
+        "D. 個人防疫資料"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "臺灣健康雲計畫中，為所有醫院 EMR Gateway 上的 XML 格式病歷檔案產生索引，並提供搜尋 與調閱，是下列哪一項所提供的服務？(*32)",
+      "options": [
+        "A. 健康存摺",
+        "B. 健保醫療資訊雲端查詢系統",
+        "C. 我的健康讚平台及 App",
+        "D. 電子病歷交換中心\n第 1 頁，共 5 頁"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "LOINC 是下列哪個領域的編碼系統？(*68)",
+      "options": [
+        "A. 藥劑處方",
+        "B. 影像醫學",
+        "C. 檢驗醫學",
+        "D. 護理詞彙"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "對於常用的醫學詞彙及編碼標準的敘述，下列何者錯誤？(*68)",
+      "options": [
+        "A. ICD 是世界衛生組織應用於收集和處理罹病及死亡統計的編碼系統",
+        "B. DRGs 是應用於醫療保險給付的編碼系統",
+        "C. MeSH 是應用在實驗室檢驗的代碼標準",
+        "D. UMLS 是美國醫學圖書館(NLM)所建立的醫學詞彙標準"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "下列何者是由美國國家醫學圖書館(NLM)計畫所發展的醫學詞彙標準，以 metathesaurus 彙整各 種不同的醫學詞彙，並且以 semantic network 表達字詞間的關係？(*69)",
+      "options": [
+        "A. LOINC",
+        "B. UMLS",
+        "C. SNOMED",
+        "D. ICD"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "下列哪一套醫學標準用以規定醫療院所使用的行政管理與臨床訊息交換格式？(*70)",
+      "options": [
+        "A. HL7 .",
+        "B. ICD10",
+        "C. UMLS",
+        "D. SNOMED"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "為了因應醫療資訊標準導入臨床環境時所遭遇的問題，HL7 International 提出 FHIR(Fast Healthcare Interoperability Resources)標準，強調使用下列何種標準，並使用 Web 標準為建置平 台，以減少各醫療院所在導入 HL7 時所遇到的困難度。(*71)",
+      "options": [
+        "A. HL7 1.0 版及 CDA(Clinical Document Architecture)標準",
+        "B. HL7 2.0 版及 CDA(Clinical Document Architecture)標準",
+        "C. HL7 3.0 版及 CDA(Clinical Document Architecture)標準",
+        "D. HL7 4.0 版及 CDA(Clinical Document Architecture)標準"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "未來醫療 IT 將有兩大變革，衛福部宣布電子病歷交換中心要改為 FHIR 架構，還要送草案讓電 子病歷上雲，請問 FHIR 架構由下列哪一個標準組織所制定？(*71)",
+      "options": [
+        "A. HL7(健康資訊交換第七層協定)",
+        "B. ISO(國際標準化組織)",
+        "C. NLM(美國醫學圖書館)",
+        "D. WHO(世界衛生組織)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "關聯式資料庫的資料表中選擇某一欄位當下列哪一種鍵(Key)時須符合其值必須是唯一無二且不 可為空值？(*94)",
+      "options": [
+        "A. 外來鍵(Foreign Key)",
+        "B. 主鍵(Primary Key)",
+        "C. 超級鍵(Super Key)",
+        "D. 以上皆非"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "關聯式資料庫規定，參照資料表任一資料紀錄之外來鍵的值必須出現在被參照資料表資料記錄 的主鍵值或者為空值，請問這是下列哪一項限制的規定？(*95)",
+      "options": [
+        "A. 參照完整性限制",
+        "B. 個體完整性限制",
+        "C. 異動操作性限制",
+        "D. 功能完整性限制"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "IoT 的發展，讓大量資訊的流通都可透過它而相互連結，更可隨著人們不同的需求而提供相對 之應用服務。請問 IoT 的全名是？(*110)",
+      "options": [
+        "A. Intranet of Things",
+        "B. Internet of Thinks",
+        "C. Internet of Things",
+        "D. Intranet of Thinks"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "網路可靠度的服務度量值中，「平均修復時間/停機時間」的公式是在測量？(*114)",
+      "options": [
+        "A. 可利用率",
+        "B. 傳輸錯誤率",
+        "C. 回復力及穩定度",
+        "D. 傳輸功能轉換率"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "SNMP 利用取得、設定、事件三項簡單的命令群透過以下何種方式來提供網路管理端清楚知道 被管理端的各種情況資訊？(*128)",
+      "options": [
+        "A. 萃取(extract)",
+        "B. 載入(Load)",
+        "C. 分時(Time-sharing)",
+        "D. 輪詢(Polling)\n第 2 頁，共 5 頁"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "資訊安全的目標有所謂的 C.I.A.三原則，是指下列何者？(*137)",
+      "options": [
+        "A. 防火牆、虛擬私有網路和認證中心",
+        "B. 保護資料、系統和設備不要被駭客攻擊",
+        "C. 資料的加密、解密和密鑰管理",
+        "D. 保護資料及系統資源的機密性、整體性和可取用性"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "將防火牆進出交通的 IP 位址改變，讓外面的人無法知道內部網路電腦 IP 位址，這是何種防火 牆過濾方法？(*143)",
+      "options": [
+        "A. 封包過濾 Packet Filter .",
+        "B. 應用程式過濾 App Filter",
+        "C. 代理伺服器 Proxy",
+        "D. 子網 Subnet"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "下列有關加解密技術之描述何者正確？(*153)",
+      "options": [
+        "A. 醫療憑證管理中心採用對稱性加密系統",
+        "B. 非對稱性密碼系統，因為不需要考慮對稱性，所以速度較快",
+        "C. 傳輸大量的資料一般會用非對稱性加密系統直接加密之",
+        "D. 非對稱性密碼系統是因加密端與解密端用以加密與解密之金鑰不相同而得名"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "為防止未經授權使用，醫事憑證管理中心私密金鑰備份，採用一般寫入多人分持備份 IC 卡並 設定存取密碼的方式稱為何？(*153)",
+      "options": [
+        "A. m-out-of-n",
+        "B. m-in-of-n",
+        "C. m-inout-of-n",
+        "D. m-outin-of-n"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "將機密資料先秘密的隱藏於另一非機密性的資料檔中，在利用數位媒體的影像、聲音、視訊和 文字檔利用網路來傳送，避免被駭客攔截，這種技術稱為？(*161)",
+      "options": [
+        "A. 電子資訊亂真偽裝",
+        "B. 電子資訊加密偽裝",
+        "C. 電子簽章資訊偽裝",
+        "D. 電子簽章資訊傳遞"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "以下何者是中研院所開發的系統可用於分析要揭露的資料庫是否隱含洩漏隱私的危險。(*174)",
+      "options": [
+        "A. CellSecu",
+        "B. SecuCell",
+        "C. PvclSecu",
+        "D. SecuPvcl"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "資訊系統發展的各個階段會產生不同文件，下列敘述何者正確？(*203-207)",
+      "options": [
+        "A. 系統設計階段會產生初步設計規範書",
+        "B. 系統分析階段會產生系統需求規格書",
+        "C. 系統發展階段會產生系統規格說明書",
+        "D. 系統推行階段會產生程式說明書"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "公開資料庫時的第一步隱私保護技術，必須先將能識別個人之欄位移除的動作為下列何者？ (*205)",
+      "options": [
+        "A. 知情同意權(informed consent)",
+        "B. 身分認證(Authentication)",
+        "C. 去識別化(deidentification)",
+        "D. 多方私密計算(multiparty secure computation)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "當醫院要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、舊資訊系 統間所產生數據的對應關係，應進行何種測試？(*220)",
+      "options": [
+        "A. 整合測試",
+        "B. 整體測試",
+        "C. 平行測試",
+        "D. 單元測試"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "對於系統維護的敘述，下列何者不正確？(*238)",
+      "options": [
+        "A. 針對程式撰寫錯誤或規劃錯誤所造成的維護工作是屬於矯正性維護",
+        "B. 嘗試修改或是新增介面功能來適應外在環境變化的維護作業，是屬於適應性維護",
+        "C. 增加新功能或改良原系統功能的工作，是屬於完善性維護",
+        "D. 專案系統的維護保固期間普遍以一年為限，是以適應性維護與完善性維護為範圍，不包含矯\n正性維護\n第 3 頁，共 5 頁"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "請問在下列哪項支付制度下，醫院透過加強臨床路徑，將醫療照護之流程標準化，可減少不必 要的檢查、用藥及住院日數，同時也可減少院內感染的機會？(*260、445)",
+      "options": [
+        "A. 資源耗用群(RUGs)",
+        "B. 門診病人組群(APGs)",
+        "C. 診斷相關群(DRGs)",
+        "D. 論量計酬(Fee For Service)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "對於健保支付制度的優缺點比較，下列敘述何者不正確？(*261)",
+      "options": [
+        "A. 總額預算限制醫療服務總支出上限，可有效控制醫療費用上漲",
+        "B. 論人計酬可提供強烈的經濟誘因，促使醫療院所重視預防保健",
+        "C. 論病例計酬可以適用於所有的疾病項目，方便就醫民眾估算醫療費用",
+        "D. 論日計酬的作業簡單，行政成本低"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "下列對於臨床路徑的敘述何者錯誤？(*262)",
+      "options": [
+        "A. 醫院在因應論量計酬支付制度，臨床路徑乃是諸多管理措施中最廣為採用之利器",
+        "B. 臨床路徑是一種固定的治療建議模式，讓病人由住院到出院都依此模式的規範來接受治療",
+        "C. 醫院可藉由臨床路徑來控制整個醫療成本並維持或改進醫療的品質",
+        "D. 臨床路徑希望找出最有成本效益的治療模式"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "醫療影像儲存、交換、傳輸標準是採用國際通用的醫療影像標準 DICOM，即是數位醫學影像 及傳輸(Digital Imaging and Communications in Medicine)，主要是訂定各式(Modalities)醫療影像 傳輸的標準規格，可應用在：(*271)",
+      "options": [
+        "A. 實證醫學(EBM)",
+        "B. 電腦斷層(CT)",
+        "C. 診斷關聯群(DRG)",
+        "D. 以上皆非"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "與採購密不可分的就是庫存管理，庫存管理乃是透過管理手段控制各類資材的種類與數量，在 確保醫療品質及作業能順利進行的前提下，以最經濟的訂購及存量管制方法，使醫院保持最低 的資材成本。請問訂購量是一個使用週期的時間與下列何者相乘？(*277)",
+      "options": [
+        "A. 每日耗用量",
+        "B. 每週耗用量 .",
+        "C. 每月耗用量",
+        "D. 每年耗用量"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "病歷記錄的內容大都以 SOAP 的方式記錄，SOAP 的全名為？(*321)",
+      "options": [
+        "A. Subject；Object；Assessment；Plan",
+        "B. Small；Object；Access；Protocol",
+        "C. Super；Object；Abstract；Plus",
+        "D. Subscribe；Order；Apply；Process"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "放射科資訊及影像管理系統中，取得影像資料必須透過 ADC 轉換，才能在電腦中顯示或儲 存，ADC 的主要功能為何？(*381)",
+      "options": [
+        "A. 將數位資料轉換為類比訊號",
+        "B. 將類比訊號轉換為數位化資料",
+        "C. 透過轉換增加影像的解析度",
+        "D. 提升影像資料存取和傳輸速度"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "臨床照護分類(Clinical Care Classification)標準化語言適用於哪種系統？(*407)",
+      "options": [
+        "A. 護理資訊系統之護理診斷及措施等臨床護理記錄",
+        "B. 轉檢轉診資訊系統之轉送醫療照護機構層級分類",
+        "C. 急診資訊系統之檢傷病情嚴重度分級照顧",
+        "D. 藥局資訊系統之給藥依據年齡和疾病嚴重度的劑量分配"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "下列何者是施行臨床路徑的優點？(*455)",
+      "options": [
+        "A. 避免醫院治療系統的故障",
+        "B. 減少併發症的發生",
+        "C. 縮短住院日數",
+        "D. 以上皆是\n第 4 頁，共 5 頁"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "疾病管制署的全國性預防接種系統 NIIS，是下列何者的縮寫？(*495)",
+      "options": [
+        "A. Nursing Injection Information System",
+        "B. National Immunization Information System",
+        "C. National Infection Immunization System",
+        "D. Normalization International Injection System"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "對於目前全民健康保險研究資料庫使用方式的敘述，下列何者正確？(*551~552)",
+      "options": [
+        "A. 資料已經去識別化處理，市面上就可以購買取得資料庫光碟自由流通使用",
+        "B. 任何人都可以在健保署的網站上，具名下載取得百萬人的抽樣資料進行研究分析",
+        "C. 研究者必須事先提出申請，資料取得後只能在校園電腦供教學及研究使用",
+        "D. 限制使用對象為政府部門及學研單位等，使用場所為衛生福利資料科學中心暨研究分中心獨\n立作業區"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "健康資訊產業整合標準(IHE)定義及公布的技術規範，是希望醫療資訊系統應具備哪一種特性？ (*617)",
+      "options": [
+        "A. Availability(可用性)",
+        "B. Confidentiality(機密性)",
+        "C. Integrity(完整性)",
+        "D. Interoperability(互操作性)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "下列何者為健康資訊產業整合(Integrating the Healthcare Enterprise, IHE)的功能？(*617)",
+      "options": [
+        "A. 提供跨醫院機構共通性的醫療語言",
+        "B. 衛生主管機關進行疾病防治及公共衛生決策的重要參考",
+        "C. 提供不同的造影儀器製造商、系統廠商、醫院等共通的準則、架構，並使用現有的相關醫療\n資訊標準，作為整合異質性環境時溝通所用",
+        "D. 以上皆是"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "健康資訊產業整合(IHE)標準的技術架構文件，將醫療作業流程以下列何者來描述？(*620)",
+      "options": [
+        "A. 角色(Role)和參與(Participation) .",
+        "B. 行為關係(Act relationship)和角色連結(Role link)",
+        "C. 角色(Actors)和交易(Transactions)",
+        "D. 實體(Entity)和行為(Act)"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "下列何者不是雲端藥歷(現名為第二代健保醫療資訊雲端查詢系統)提供的資訊？(*352-353)",
+      "options": [
+        "A. 主診斷",
+        "B. 藥物交互作用 .",
+        "C. 藥品名稱",
+        "D. 用法用量"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "電腦系統的發展，依不同時期主要有三種架構，包括甲：主機終端機架構(Mainframe- Terminal)，乙：結合全球資訊網的三層式架構(3-Tier Architecture)和丙：主從式架構(Client- Server Architecture)，電腦系統架構的發展，由最早期到最近的先後順序為何？(*421)",
+      "options": [
+        "A. 甲乙丙",
+        "B. 丙乙甲 .",
+        "C. 乙甲丙",
+        "D. 甲丙乙"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "以下何者不是電子病歷文件的特質？(*501)",
+      "options": [
+        "A. 多重關係人(Multiple Stakeholders)",
+        "B. 多重保障(Multiple Guarantee)",
+        "C. 多重照護型態(Multiple Type Of Cares) .",
+        "D. 多重資料格式(Multiple Forms Of Data)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "急診檢傷分為五個等級，下列那一級屬於第一級？(*292)",
+      "options": [
+        "A. 復甦急救",
+        "B. 危急 .",
+        "C. 緊急",
+        "D. 次緊急"
+      ],
+      "answer": "A"
+    }
+  ]
+}

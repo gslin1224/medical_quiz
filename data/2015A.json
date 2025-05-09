@@ -1,0 +1,569 @@
+{
+  "year": "2015A",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "現在很多公共場合可看到 AED 標誌，號稱傻瓜電擊器的 AED，英文是? (時事題)",
+      "options": [
+        "A. Aspiration External Defibrillators",
+        "B. Automated External Defibrillators",
+        "C. Acute Endocarditis Decortication",
+        "D. Arrhythmia External Dissection"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "現在很多小孩子有注意力缺失與過動障礙(ADHD)問題，英文是? (**158)",
+      "options": [
+        "A. Adjustment Disorder/Hyperactivity Disorder",
+        "B. Anxiety Disorder/Hyperactivity Disorder",
+        "C. Attention-Deficit/Hyperactivity Disorder",
+        "D. Attention-Deficit/Hostile Disorder"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "子宮脫垂即是骨盆腔的肌肉、韌帶及各層結締組織鬆弛後，子宮因地心引力牽扯而往下 掉， 並且常常伴隨膀胱、尿道、腸子等器官脫垂，造成許多不適與後遺症。子宮脫垂 的術語是? (**135)",
+      "options": [
+        "A. Umbilical Prolapse",
+        "B. Prolapse Vagina",
+        "C. Uterine Prolapse",
+        "D. Venereal Disease"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "心房撲動好發於心臟病患者，或是心臟病發作或胸部受到創傷後，導管燒灼術為電生理 學家的心房撲動首選療法，在緩解患者症狀方面有很高的成功率，心房撲動的術語是? (**22)",
+      "options": [
+        "A. Atrial fibrillation",
+        "B. Atrial flutter",
+        "C. Ventricular fibrillation",
+        "D. Ventricular tachycardia"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Positron Emission Tomography (PET) 是指? (**44)",
+      "options": [
+        "A. 癌症基因篩檢",
+        "B. 內視鏡檢查",
+        "C. 核磁共振攝影",
+        "D. 正子斷層造影"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "顱內動脈瘤破裂引起的蜘蛛膜下腔出血，是可怕的腦出血性中風。蜘蛛膜下腔出血術語 為? (**76)",
+      "options": [
+        "A. Herniated Intervertebral Disc (HIVD)",
+        "B. Subarachnoid Hemorrhage (SAH)",
+        "C. Epidural Hemorrhage (EDH)",
+        "D. Subdural Hemorrhage (SDH)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "現代人手機平板的大量使用，造成腕隧道症候群(CTS)人數大增，腕隧道症候群 正確說法? (**8)",
+      "options": [
+        "A. Carpel Tunnel Syndrome",
+        "B. Carpet Tunnel Syndrome",
+        "C. Carper Tunnel Syndrome",
+        "D. Carpal Tunnel Syndrome"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "承上題，藍光可能對視網膜造成傷害，請問視網膜的術語? (**99)",
+      "options": [
+        "A. sclera",
+        "B. retina",
+        "C. cornea",
+        "D. conjunctiva"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "MeSH(Medical Subject Headings)是一套專為醫學文獻分類所設計的詞彙系統，由美國國 家醫學圖書館所設計及維護。請問 MeSH 屬於哪一種結構的詞彙系統?(*86)",
+      "options": [
+        "A. 網狀",
+        "B. 樹狀",
+        "C. 線狀",
+        "D. 星狀\n1"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "電腦間通訊的基本原則是由下列哪一個組織所制定的 OSI (Open Systems Interconnection) reference model? (*87)",
+      "options": [
+        "A. ANSI",
+        "B. ISO",
+        "C. EDIFACT",
+        "D. CEN"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "下列哪一套醫學詞彙代碼系統字詞間的關係是由語意網路來表達，而且具有處理相似 詞、相反詞、拼錯字及多國語言的能力? (*87)",
+      "options": [
+        "A. DRG",
+        "B. ICD9-CM",
+        "C. UMLS",
+        "D. LOINC"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "ACID 為交易管理必須注意的四大特性，下列敘述何者錯誤?(*103)",
+      "options": [
+        "A. 整個交易指令視為一個不可分割的單元",
+        "B. 交易過程中所用到的資料不可受到其它交易讀取或修改",
+        "C. 交易過程中資料庫必須保持一致性",
+        "D. 交易確認執行後對資料庫的更新是永久性的"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Oracle 資料庫管理系統屬於哪一種資料模型?(*106~108)",
+      "options": [
+        "A. 物件導向式",
+        "B. 物件關聯式",
+        "C. 階層式",
+        "D. 網路式"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "電腦系統的發展，依不同時期主要有三種架構，包括甲：主機終端機架構(Mainframe- Terminal)，乙：結合全球資訊網的三層式架構(3-Tier Architecture)和丙：主從式架構 (Client-Server Architecture)，電腦系統架構的發展，由最早期到最近的先後順序為何? (*457)",
+      "options": [
+        "A. 甲丙乙",
+        "B. 甲乙丙",
+        "C. 乙甲丙",
+        "D. 丙乙甲"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "下列何者是指在資料庫設計時，會遵循相同的設計模式，檢查資料是否重複存放，其 目的是建立「良好結構的關聯表」，這是一種沒有重複資料的關聯表，而且在新增、刪 除或更新資料時，不會造成錯誤或資料不一致? (*115)",
+      "options": [
+        "A. 正規化(Normalization)",
+        "B. 最佳化(Optimization)",
+        "C. 視覺化(Visualization)",
+        "D. 最小化(Minimization)"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "下列有關關聯式資料模型的正規化描述何者為非?(*123)",
+      "options": [
+        "A. 理論上資料表經由正規化分割得越細，越可避免資料重複及異動操作的問題",
+        "B. 資料表經由正規化分割得太細，在資料查詢時可能會用到許多合併運算而非常\n沒有效率",
+        "C. 資料表經由正規化分割得越細，在資料儲存時可能會用到更多的空間",
+        "D. 在實務上正規化越高，越能滿足應用需求"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "在乙太網路架構下，管理各項網路設備通常使用何種通訊協定進行溝通? (*151)",
+      "options": [
+        "A. SCJP",
+        "B. SCWCD",
+        "C. SNMP",
+        "D. SNOMED"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "在量測生理訊號時，會收到許多雜訊，如果我們想要濾除高頻雜訊，應該使用何種濾 波器?(*158)",
+      "options": [
+        "A. 低通濾波器",
+        "B. 高通濾波器",
+        "C. 帶通濾波器",
+        "D. 帶限濾波器"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "在生醫訊號處理中，心電圖 QRS 複合波的尋找，最主要是屬於下列哪一項訊號處理技 術之應用?(*161)",
+      "options": [
+        "A. 雜訊去除",
+        "B. 資料壓縮",
+        "C. 頻譜分析",
+        "D. 訊號特徵擷取\n2"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "下列關於一般防火牆的敘述何者錯誤?(*175)",
+      "options": [
+        "A. 可過濾封包來源及目的 IP 位址是否合法",
+        "B. 可改變進出交通的 IP 位址",
+        "C. 可過濾封包是否使用合法的 TCP/UDP 埠號",
+        "D. 可比對入侵行為特徵碼"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "我國健保資訊網路採用何種網路技術傳輸資料，並設有多道防火牆來降低駭客入侵系 統或盜取資料之風險? (*179)",
+      "options": [
+        "A. Proxy",
+        "B. VPN",
+        "C. DICOM",
+        "D. SNMP"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "目前我國二代健保卡採用 RSA 公開金鑰演算法來保護個人資料，其中 RSA 屬於何種 密碼系統? (*183)",
+      "options": [
+        "A. 對稱性密碼系統",
+        "B. 單金鑰系統",
+        "C. 非對稱性密碼系統",
+        "D. 三金鑰系統"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "對於電子簽章的敘述，下列何者正確? (*183,191)",
+      "options": [
+        "A. 傳送端是使用自己的公開金鑰簽章",
+        "B. 接收端是使用自己的私密金鑰驗章",
+        "C. 電子簽章的過程，要對整份文件做 RSA 的加密運算，所以很花時間",
+        "D. 將文件先以單向赫序函數計算出訊息摘要之後，電子簽章只是針對訊息摘要\n進行 RSA 加密運算"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "醫院資訊系統委外開發為目前廣被醫院採用的一種模式，下列何者是委外大型廠商開 發的優點? (*215)",
+      "options": [
+        "A. 大型廠商經驗豐富",
+        "B. 大型廠商議價占優勢",
+        "C. 大型廠商設備齊全",
+        "D. 已上皆是"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "系統測試程序中，一般採用白箱測試技術來驗證系統功能規格書中細部設計所描述模 組的正確性，是指下列哪一種測試? (*245)",
+      "options": [
+        "A. 單元測試",
+        "B. 整合測試",
+        "C. 驗收測試",
+        "D. 整體測試"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "當醫院舊資訊系統正常運作執行中，而要導入新資訊系統的階段，必須保持舊資訊系 統繼續正常運作。如要比較新、舊資訊系統間所產生數據的對應關係，應進行何種測 試? (*248)",
+      "options": [
+        "A. 單元測試",
+        "B. 整合測試",
+        "C. 平行測試",
+        "D. 整體測試"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "掛號及批價管理是醫院行政中的何種任務? (*279)",
+      "options": [
+        "A. 醫療照護",
+        "B. 經營管理",
+        "C. 醫師服務",
+        "D. 醫療事務"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "健康保險支付制度中，適用於長期照護論病例計酬的資源耗用群簡稱為下列何者？ (*285)",
+      "options": [
+        "A. APGs",
+        "B. DRGs",
+        "C. HMOs",
+        "D. RUGs\n送分 29.下列關於各種健保支付制度的敘述何者正確? (*286)\n(A)論量計酬-有效控制醫療費用上漲 (B)論日計酬-作業複雜，行政成本高\n(C)論人計酬-醫師的醫療行為自主權高 (D)總額預算制-行政作業成本低"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "PACS 醫學影像系統是一種專門用來儲存、取得、傳送與展示醫療影像的電腦或網路 系統，主要採用哪一種共通檔案格式? (*296)",
+      "options": [
+        "A. JPEG",
+        "B. TIFF",
+        "C. CDA2",
+        "D. DICOM\n送分 31.新急診五級檢傷分類標準，其中危急(URGENT)等級屬於哪一級? (*318)\n3\n(A)第一級 (B)第二級 (C)第四級 (D)第五級"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "急診醫令系統應該要能夠處理以下各種看診狀態，其中醫師對病人診察治療的狀態尚 未完成，待後再處理，例如病人去檢驗或照 X 光，是屬於哪一種狀態? (*319)",
+      "options": [
+        "A. 候診",
+        "B. 完診",
+        "C. 暫存",
+        "D. 留觀"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "病歷管理電腦化系統的功能，不包括下列何者? (*338)",
+      "options": [
+        "A. 藥品庫存管理系統",
+        "B. 手術分類等檢索查詢系統",
+        "C. 病歷相關資料統計分析系統",
+        "D. 現場掛號和預約掛號系統"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "下列哪一種資訊系統需由個人、醫療照護提供者以及其他相關者來共同維護?(*34~35)",
+      "options": [
+        "A. 電子健康記錄系統",
+        "B. 電子病歷系統",
+        "C. 電子病人資料系統",
+        "D. 電腦化病歷系統"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "醫院 HIS 與 LIS 系統界接，其中資料流向是由 LIS 傳回 HIS 的是下列何者？(*360)",
+      "options": [
+        "A. 病人基本資料",
+        "B. 醫令",
+        "C. 結果報告",
+        "D. 批價"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "下列何者不是檢驗室建構檢驗資訊系統的優點? (*365)",
+      "options": [
+        "A. 增加病人住院日，減少病床周轉率",
+        "B. 減少批價漏失",
+        "C. 可準確複檢檢體，減少試劑浪費",
+        "D. 增加病歷紀錄的完整性"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "利用不同頻率的電磁波脈衝，引起人體不同器官內原子共振，再由原子回到基底狀態 時，所放出的能量，引起磁場向量的改變，接收感應線圈電流再轉換成影像的是下列 哪一種造影技術? (*402)",
+      "options": [
+        "A. CT (Computerized Tomography)",
+        "B. MRI (Magnetic Resonance Imaging)",
+        "C. Ultrasound",
+        "D. X Ray"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "護理資訊系統必須結合護理過程來設計，護理過程通常是依照下列哪一種順序? (*429)",
+      "options": [
+        "A. 病人評估、診斷、計畫、護理措施、成果評值",
+        "B. 成果評值、計畫、病人評估、護理措施、診斷",
+        "C. 護理措施、診斷、病人評估、計畫、成果評值",
+        "D. 病人評估、護理措施、診斷、成果評值、計畫"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "疾病監測也稱流行病學監測，是指透過持續的收集、分析、解釋、描述疾病相關資 料，進而有效控制疾病。下列何者是疾病監測的目的? (*527)",
+      "options": [
+        "A. 制定與評估防疫政策",
+        "B. 偵測即時疫情",
+        "C. 建立疾病自然史",
+        "D. 以上皆是"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "病毒性感染症合約實驗室監視系統，是由哪一個衛生單位委託醫學中心及區域醫院， 針對疑似腸病毒及類流感病例進行採檢送驗，以了解社區流行的病毒株，並評估疫情 擴散與活躍程度? (*528)",
+      "options": [
+        "A. 社會及家庭署",
+        "B. 疾病管制署",
+        "C. 食品藥物管理署",
+        "D. 國民健康署"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "伊波拉病毒屬於法定傳染病的哪一類? (*529)",
+      "options": [
+        "A. 第一類",
+        "B. 第二類",
+        "C. 第四類",
+        "D. 第五類"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "下列何者不是電子病歷的特質? (*537)",
+      "options": [
+        "A. 複雜的文件",
+        "B. 私人的文件",
+        "C. 延續照護的可信賴資料來源",
+        "D. 以上皆非"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "醫療機構以電子文件方式製作及儲存之病歷，得免另以書面方式儲存，是依據哪一項 法令條文? (*548) 4",
+      "options": [
+        "A. 電子簽章法",
+        "B. 醫師法",
+        "C. 醫療法",
+        "D. 個人資料保護法"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "戴明的 PDCA 循環中 A 指的是? (*564~565)",
+      "options": [
+        "A. Accomplishment",
+        "B. Accommodation",
+        "C. Action",
+        "D. Achievement"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "目前世界上最重要的醫療資訊交換標準有兩套，分別為? (*87)",
+      "options": [
+        "A. HL7 及 ICD-9",
+        "B. DRG 及 SNOMED",
+        "C. HL7 及 DICOM",
+        "D. DICOM 及 LOINC"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "21 世紀的醫療品質管理，強調的是下列哪一種為中心的全面品質管理? (*570)",
+      "options": [
+        "A. 病人",
+        "B. 醫院",
+        "C. 醫護 D)人性\n(A)47.下列關於遠距醫療的功能敘述何者錯誤? (*640)\n(A)遠距給藥 (B)遠距會診 (C)遠距生理訊號量測",
+        "D. 遠距醫護人員教育"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "下列哪一個非需要遠距醫療的主要原因? (*641)",
+      "options": [
+        "A. 提供都會地區醫師繼續教育",
+        "B. 需要改進轉診及照會的品質",
+        "C. 促進個案討論、學術交流",
+        "D. 偏遠地區醫療資源仍缺乏"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "發展電子病歷或電子健康歷，均會面臨個人隱私與資料保密的重要課題，因此國外的 下列哪一項制度最適合做為借鏡的重要參考? (*67)",
+      "options": [
+        "A. HIN",
+        "B. HIPAA",
+        "C. HIMSS",
+        "D. HMO"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "國際健康資訊產業整合協會(IHE)制定十餘種臨床作業領域的整合規範(Integration Profile)，其中不包括下列哪一個領域? (*675)",
+      "options": [
+        "A. 心臟科",
+        "B. 牙科",
+        "C. 眼科照護",
+        "D. 放射科"
+      ],
+      "answer": "B"
+    }
+  ]
+}
